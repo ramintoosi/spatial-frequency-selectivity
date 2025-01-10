@@ -57,7 +57,6 @@ The full dataset used in the study is available upon reasonable request to the c
 3. **Adjust Parameters**  
    Modify variables in the script as needed for experimentation.
 
----
 
 ## Key Variables and Outputs
 
@@ -83,10 +82,7 @@ If you use this code or adapt it for your work, please cite the original paper:
     month=jun }
 ```
 
----
-
 ## Contact
 
 For questions or contributions, please reach out to the authors of the original paper or create an issue in this repository. For access to the full dataset, please contact the corresponding author as stated in the paper.
 
---- 
